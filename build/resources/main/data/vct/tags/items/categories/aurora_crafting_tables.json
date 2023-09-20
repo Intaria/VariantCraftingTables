@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "vct:jacaranda_crafting_table",
+    "vct:redbud_crafting_table",
+    "vct:cypress_crafting_table",
+    "vct:brown_mushroom_crafting_table",
+    "vct:red_mushroom_crafting_table"
+  ]
+}

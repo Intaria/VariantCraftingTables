@@ -1,0 +1,23 @@
+{
+  "type": "woodworks:sawmill",
+  "ingredient": {
+    "tag": "biomemakeover:blighted_balsa_logs"
+  },
+  "result": "vct:bm_blighted_balsa_crafting_table",
+  "count": 1,
+  "conditions": [
+    {
+      "type": "forge:and",
+      "values": [
+        {
+          "type": "forge:mod_loaded",
+          "modid": "woodworks"
+        },
+        {
+          "type": "forge:mod_loaded",
+          "modid": "biomemakeover"
+        }
+      ]
+    }
+  ]
+}

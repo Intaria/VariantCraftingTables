@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "vct:aeronos_crafting_table",
+    "vct:glacian_crafting_table",
+    "vct:strophar_crafting_table"
+  ]
+}

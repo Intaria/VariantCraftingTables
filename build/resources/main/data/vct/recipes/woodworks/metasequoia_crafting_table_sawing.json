@@ -1,0 +1,23 @@
+{
+  "type": "woodworks:sawmill",
+  "ingredient": {
+    "tag": "prehistoricfauna:metasequoia_logs"
+  },
+  "result": "vct:metasequoia_crafting_table",
+  "count": 1,
+  "conditions": [
+    {
+      "type": "forge:and",
+      "values": [
+        {
+          "type": "forge:mod_loaded",
+          "modid": "woodworks"
+        },
+        {
+          "type": "forge:mod_loaded",
+          "modid": "prehistoricfauna"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "crafting_table",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "quark:blossom_planks"
+    }
+  },
+  "result": {
+    "item": "vct:quark_blossom_crafting_table"
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "quark"
+    }
+  ]
+}

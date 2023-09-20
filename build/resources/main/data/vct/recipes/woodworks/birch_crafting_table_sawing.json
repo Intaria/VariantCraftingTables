@@ -1,0 +1,14 @@
+{
+  "type": "woodworks:sawmill",
+  "ingredient": {
+    "tag": "minecraft:jungle_logs"
+  },
+  "result": "vct:jungle_crafting_table",
+  "count": 1,
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "woodworks"
+    }
+  ]
+}

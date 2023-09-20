@@ -1,0 +1,23 @@
+{
+  "type": "woodworks:sawmill",
+  "ingredient": {
+    "tag": "forge:mushroom_stems/orange"
+  },
+  "result": "vct:honey_fungus_crafting_table",
+  "count": 1,
+  "conditions": [
+    {
+      "type": "forge:and",
+      "values": [
+        {
+          "type": "forge:mod_loaded",
+          "modid": "woodworks"
+        },
+        {
+          "type": "forge:mod_loaded",
+          "modid": "extendedmushrooms"
+        }
+      ]
+    }
+  ]
+}

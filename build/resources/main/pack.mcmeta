@@ -1,0 +1,7 @@
+{
+    "pack": {
+        "description": "VCT resources",
+        "pack_format": 10,
+        "_comment": "Resources for Variant Crafting Tables."
+    }
+}

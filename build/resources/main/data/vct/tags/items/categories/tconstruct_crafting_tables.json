@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "vct:bloodshroom_crafting_table",
+    "vct:greenheart_crafting_table",
+    "vct:skyroot_crafting_table"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "type": "woodworks:sawmill",
+  "ingredient": {
+    "tag": "quark:azalea_logs"
+  },
+  "result": "vct:quark_azalea_crafting_table",
+  "count": 1,
+  "conditions": [
+    {
+      "type": "forge:and",
+      "values": [
+        {
+          "type": "forge:mod_loaded",
+          "modid": "woodworks"
+        },
+        {
+          "type": "forge:mod_loaded",
+          "modid": "quark"
+        }
+      ]
+    }
+  ]
+}

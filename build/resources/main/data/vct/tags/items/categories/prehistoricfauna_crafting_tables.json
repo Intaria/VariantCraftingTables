@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "vct:araucaria_crafting_table",
+    "vct:heidiphyllum_crafting_table",
+    "vct:liriodendrites_crafting_table",
+    "vct:metasequoia_crafting_table",
+    "vct:protojuniperoxylon_crafting_table",
+    "vct:protopiceoxylon_crafting_table",
+    "vct:zamites_crafting_table"
+  ]
+}

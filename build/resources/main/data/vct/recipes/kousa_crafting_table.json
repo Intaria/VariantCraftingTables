@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "crafting_table",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "atmospheric:kousa_planks"
+    }
+  },
+  "result": {
+    "item": "vct:kousa_crafting_table"
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "atmospheric"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "vct:eco_azalea_crafting_table",
+    "vct:eco_flowering_azalea_crafting_table",
+    "vct:eco_coconut_crafting_table",
+    "vct:eco_walnut_crafting_table"
+  ]
+}

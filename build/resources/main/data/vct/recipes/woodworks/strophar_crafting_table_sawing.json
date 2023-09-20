@@ -1,0 +1,23 @@
+{
+  "type": "woodworks:sawmill",
+  "ingredient": {
+    "tag": "ad_astra:strophar_caps"
+  },
+  "result": "vct:strophar_crafting_table",
+  "count": 1,
+  "conditions": [
+    {
+      "type": "forge:and",
+      "values": [
+        {
+          "type": "forge:mod_loaded",
+          "modid": "woodworks"
+        },
+        {
+          "type": "forge:mod_loaded",
+          "modid": "ad_astra"
+        }
+      ]
+    }
+  ]
+}

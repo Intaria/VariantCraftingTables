@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "vct:azule_azalea_crafting_table",
+    "vct:bright_azalea_crafting_table",
+    "vct:fiss_azalea_crafting_table",
+    "vct:roze_azalea_crafting_table",
+    "vct:tecal_azalea_crafting_table",
+    "vct:titanium_azalea_crafting_table",
+    "vct:walnut_azalea_crafting_table"
+  ]
+}

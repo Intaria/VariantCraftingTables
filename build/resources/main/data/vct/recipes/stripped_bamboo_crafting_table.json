@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "crafting_table",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "twigs:stripped_bamboo_planks"
+    }
+  },
+  "result": {
+    "item": "vct:stripped_bamboo_crafting_table"
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "twigs"
+    }
+  ]
+}

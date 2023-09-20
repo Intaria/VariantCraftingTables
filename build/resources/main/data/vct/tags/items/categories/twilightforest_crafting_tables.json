@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "vct:canopy_crafting_table",
+    "vct:darkwood_crafting_table",
+    "vct:twilight_mangrove_crafting_table",
+    "vct:minewood_crafting_table",
+    "vct:sortingwood_crafting_table",
+    "vct:timewood_crafting_table",
+    "vct:transwood_crafting_table",
+    "vct:twilight_oak_crafting_table"
+  ]
+}

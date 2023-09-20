@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:crafting_table",
+    "vct:spruce_crafting_table",
+    "vct:birch_crafting_table",
+    "vct:jungle_crafting_table",
+    "vct:acacia_crafting_table",
+    "vct:dark_oak_crafting_table",
+    "vct:mangrove_crafting_table",
+    "vct:crimson_crafting_table",
+    "vct:warped_crafting_table"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "parent": "vct:recipes/root",
+  "rewards": {
+    "recipes": [
+      "vct:twisted_crafting_table"
+    ]
+  },
+  "criteria": {
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "vct:twisted_crafting_table"
+      }
+    },
+    "has_items": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [ "architects_palette:twisted_planks" ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_items"
+    ]
+  ],
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "architects_palette"
+    }
+  ]
+}

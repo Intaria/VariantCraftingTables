@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "crafting_table",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "pyromancer:rotten_planks"
+    }
+  },
+  "result": {
+    "item": "vct:rotten_planks_crafting_table"
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "pyromancer"
+    }
+  ]
+}

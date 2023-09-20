@@ -1,0 +1,35 @@
+{
+  "parent": "vct:recipes/root",
+  "rewards": {
+    "recipes": [
+      "vct:spruce_crafting_table_minecart"
+    ]
+  },
+  "criteria": {
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "vct:spruce_crafting_table_minecart"
+      }
+    },
+    "has_items": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [ "minecraft:minecart" ]
+          },
+          {
+            "tag": "forge:workbench"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_items"
+    ]
+  ]
+}

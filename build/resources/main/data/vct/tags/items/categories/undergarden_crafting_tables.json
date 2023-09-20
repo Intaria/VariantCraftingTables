@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "vct:grongle_crafting_table",
+    "vct:smogstem_crafting_table",
+    "vct:wigglewood_crafting_table"
+  ]
+}

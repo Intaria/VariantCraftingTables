@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "vct:aspen_crafting_table",
+    "vct:grimwood_crafting_table",
+    "vct:kousa_crafting_table",
+    "vct:morado_crafting_table",
+    "vct:rosewood_crafting_table",
+    "vct:yucca_crafting_table",
+    "vct:azalea_crafting_table",
+    "vct:maple_crafting_table",
+    "vct:poise_crafting_table",
+    "vct:cherry_crafting_table",
+    "vct:willow_crafting_table",
+    "vct:wisteria_crafting_table"
+  ]
+}

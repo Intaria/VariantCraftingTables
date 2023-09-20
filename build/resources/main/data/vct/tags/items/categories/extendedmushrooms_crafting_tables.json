@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "vct:mushroom_crafting_table",
+    "vct:poisonous_mushroom_crafting_table",
+    "vct:honey_fungus_crafting_table",
+    "vct:glowshroom_crafting_table"
+  ]
+}

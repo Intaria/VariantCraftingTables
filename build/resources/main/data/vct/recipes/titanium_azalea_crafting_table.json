@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "ca_crafting_table",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "colorfulazaleas:titanium_azalea_planks"
+    }
+  },
+  "result": {
+    "item": "vct:titanium_azalea_crafting_table"
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "colorfulazaleas"
+    }
+  ]
+}

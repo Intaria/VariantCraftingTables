@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "minecart_with_ca_crafting_table",
+  "pattern": [
+    "X",
+    "#"
+  ],
+  "key": {
+    "X": {
+      "item": "vct:azule_azalea_crafting_table"
+    },
+    "#": {
+      "item": "minecraft:minecart"
+    }
+  },
+  "result": {
+    "item": "vct:azule_azalea_crafting_table_minecart",
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "colorfulazaleas"
+    }
+  ]
+}

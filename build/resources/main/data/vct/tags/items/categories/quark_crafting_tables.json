@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "vct:quark_ancient_crafting_table",
+    "vct:quark_azalea_crafting_table",
+    "vct:quark_blossom_crafting_table",
+    "vct:bamboo_crafting_table"
+  ]
+}

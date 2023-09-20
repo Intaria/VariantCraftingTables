@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "vct:bm_ancient_oak_crafting_table",
+    "vct:bm_blighted_balsa_crafting_table",
+    "vct:bm_swamp_cypress_crafting_table",
+    "vct:bm_willow_crafting_table"
+  ]
+}

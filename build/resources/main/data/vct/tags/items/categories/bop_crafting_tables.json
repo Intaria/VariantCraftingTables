@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "vct:bop_cherry_crafting_table",
+    "vct:bop_dead_crafting_table",
+    "vct:bop_fir_crafting_table",
+    "vct:bop_hellbark_crafting_table",
+    "vct:bop_jacaranda_crafting_table",
+    "vct:bop_magic_crafting_table",
+    "vct:bop_mahogany_crafting_table",
+    "vct:bop_palm_crafting_table",
+    "vct:bop_redwood_crafting_table",
+    "vct:bop_umbran_crafting_table",
+    "vct:bop_willow_crafting_table"
+  ]
+}

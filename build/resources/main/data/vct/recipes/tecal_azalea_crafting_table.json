@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "ca_crafting_table",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "colorfulazaleas:tecal_azalea_planks"
+    }
+  },
+  "result": {
+    "item": "vct:tecal_azalea_crafting_table"
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "colorfulazaleas"
+    }
+  ]
+}

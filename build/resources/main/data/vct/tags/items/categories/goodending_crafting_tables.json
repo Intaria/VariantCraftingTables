@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "vct:ge_cypress_crafting_table",
+    "vct:ge_muddy_oak_crafting_table"
+  ]
+}

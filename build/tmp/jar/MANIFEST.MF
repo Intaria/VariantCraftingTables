@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Specification-Title: variant_crafting_tables
+Specification-Vendor: Kitteh6660
+Specification-Version: 1.6
+Implementation-Title: VariantCraftingTables
+Implementation-Version: 1.19.2-1.8.0
+Implementation-Vendor: Kitteh6660
+Implementation-Timestamp: 2023-09-20T05:09:12+0500
+MixinConfigs: variant_crafting_tables.mixins.json
+

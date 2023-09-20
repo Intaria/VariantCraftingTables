@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "crafting_table",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "biomemakeover:swamp_cypress_planks"
+    }
+  },
+  "result": {
+    "item": "vct:bm_swamp_cypress_crafting_table"
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "biomemakeover"
+    }
+  ]
+}

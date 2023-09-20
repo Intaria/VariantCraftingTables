@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "crafting_table",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "forbidden_arcanus:aurum_planks"
+    }
+  },
+  "result": {
+    "item": "vct:aurum_crafting_table"
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "forbidden_arcanus"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "type": "woodworks:sawmill",
+  "ingredient": {
+    "tag": "habitat:fairy_ring_mushroom_stems"
+  },
+  "result": "vct:fairy_ring_mushroom_crafting_table",
+  "count": 1,
+  "conditions": [
+    {
+      "type": "forge:and",
+      "values": [
+        {
+          "type": "forge:mod_loaded",
+          "modid": "woodworks"
+        },
+        {
+          "type": "forge:mod_loaded",
+          "modid": "enhanced_mushrooms"
+        },
+        {
+          "type": "forge:mod_loaded",
+          "modid": "habitat"
+        }
+      ]
+    }
+  ]
+}

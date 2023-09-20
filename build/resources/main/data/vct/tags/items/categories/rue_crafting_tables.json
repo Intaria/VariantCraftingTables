@@ -1,0 +1,19 @@
+{
+  "replace": false,
+  "values": [
+    "vct:rue_baobab_crafting_table",
+    "vct:rue_blackwood_crafting_table",
+    "vct:rue_cherry_crafting_table",
+    "vct:rue_cypress_crafting_table",
+    "vct:rue_dead_crafting_table",
+    "vct:rue_eucalyptus_crafting_table",
+    "vct:rue_joshua_crafting_table",
+    "vct:rue_larch_crafting_table",
+    "vct:rue_maple_crafting_table",
+    "vct:rue_mauve_crafting_table",
+    "vct:rue_palm_crafting_table",
+    "vct:rue_pine_crafting_table",
+    "vct:rue_redwood_crafting_table",
+    "vct:rue_willow_crafting_table"
+  ]
+}

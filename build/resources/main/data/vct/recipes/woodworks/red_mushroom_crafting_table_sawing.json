@@ -1,0 +1,23 @@
+{
+  "type": "woodworks:sawmill",
+  "ingredient": {
+    "tag": "enhanced_mushrooms:red_mushroom_stems"
+  },
+  "result": "vct:red_mushroom_crafting_table",
+  "count": 1,
+  "conditions": [
+    {
+      "type": "forge:and",
+      "values": [
+        {
+          "type": "forge:mod_loaded",
+          "modid": "woodworks"
+        },
+        {
+          "type": "forge:mod_loaded",
+          "modid": "enhanced_mushrooms"
+        }
+      ]
+    }
+  ]
+}
