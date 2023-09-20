@@ -1,0 +1,12 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+	    "particle": "twilightforest:block/wood/planks_trans_0",
+        "down": "twilightforest:block/wood/planks_trans_0",
+        "up": "vct:block/transwood_crafting_table_top",
+        "north": "vct:block/transwood_crafting_table_front",
+        "east": "vct:block/transwood_crafting_table_side",
+        "south": "vct:block/transwood_crafting_table_side",
+        "west": "vct:block/transwood_crafting_table_front"
+	}
+}

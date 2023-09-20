@@ -1,0 +1,12 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+	    "particle": "prehistoricfauna:blocks/protojuniper_planks",
+        "down": "prehistoricfauna:blocks/protojuniper_planks",
+        "up": "vct:block/protojuniperoxylon_crafting_table_top",
+        "north": "vct:block/protojuniperoxylon_crafting_table_front",
+        "east": "vct:block/protojuniperoxylon_crafting_table_side",
+        "south": "vct:block/protojuniperoxylon_crafting_table_side",
+        "west": "vct:block/protojuniperoxylon_crafting_table_front"
+	}
+}

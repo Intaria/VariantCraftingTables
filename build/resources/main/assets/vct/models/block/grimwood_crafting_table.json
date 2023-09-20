@@ -1,0 +1,12 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+	    "particle": "atmospheric:block/grimwood_planks",
+        "down": "atmospheric:block/grimwood_planks",
+        "up": "vct:block/grimwood_crafting_table_top",
+        "north": "vct:block/grimwood_crafting_table_front",
+        "east": "vct:block/grimwood_crafting_table_side",
+        "south": "vct:block/grimwood_crafting_table_side",
+        "west": "vct:block/grimwood_crafting_table_front"
+	}
+}

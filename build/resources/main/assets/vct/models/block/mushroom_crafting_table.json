@@ -1,0 +1,12 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+	    "particle": "extendedmushrooms:block/mushroom_planks",
+        "down": "extendedmushrooms:block/mushroom_planks",
+        "up": "vct:block/mushroom_crafting_table_top",
+        "north": "vct:block/mushroom_crafting_table_front",
+        "east": "vct:block/mushroom_crafting_table_side",
+        "south": "vct:block/mushroom_crafting_table_side",
+        "west": "vct:block/mushroom_crafting_table_front"
+	}
+}

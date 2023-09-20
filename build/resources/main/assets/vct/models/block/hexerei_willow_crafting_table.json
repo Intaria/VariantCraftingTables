@@ -1,0 +1,12 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+	    "particle": "hexerei:block/willow_planks",
+        "down": "hexerei:block/willow_planks",
+        "up": "vct:block/hexerei_willow_crafting_table_top",
+        "north": "vct:block/hexerei_willow_crafting_table_front",
+        "east": "vct:block/hexerei_willow_crafting_table_side",
+        "south": "vct:block/hexerei_willow_crafting_table_side",
+        "west": "vct:block/hexerei_willow_crafting_table_front"
+	}
+}

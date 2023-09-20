@@ -1,0 +1,12 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+	    "particle": "horizons:block/cypress_planks",
+        "down": "horizons:block/cypress_planks",
+        "up": "vct:block/cypress_crafting_table_top",
+        "north": "vct:block/cypress_crafting_table_front",
+        "east": "vct:block/cypress_crafting_table_side",
+        "south": "vct:block/cypress_crafting_table_side",
+        "west": "vct:block/cypress_crafting_table_front"
+	}
+}

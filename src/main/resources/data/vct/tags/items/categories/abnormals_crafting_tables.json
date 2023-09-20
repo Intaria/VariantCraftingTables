@@ -12,8 +12,6 @@
     "vct:poise_crafting_table",
     "vct:cherry_crafting_table",
     "vct:willow_crafting_table",
-    "vct:wisteria_crafting_table",
-    "vct:driftwood_crafting_table",
-    "vct:river_crafting_table"
+    "vct:wisteria_crafting_table"
   ]
 }

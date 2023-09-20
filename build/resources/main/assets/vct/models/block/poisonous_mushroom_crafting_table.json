@@ -1,0 +1,12 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+	    "particle": "extendedmushrooms:block/poisonous_mushroom_planks",
+        "down": "extendedmushrooms:block/poisonous_mushroom_planks",
+        "up": "vct:block/poisonous_mushroom_crafting_table_top",
+        "north": "vct:block/poisonous_mushroom_crafting_table_front",
+        "east": "vct:block/poisonous_mushroom_crafting_table_side",
+        "south": "vct:block/poisonous_mushroom_crafting_table_side",
+        "west": "vct:block/poisonous_mushroom_crafting_table_front"
+	}
+}

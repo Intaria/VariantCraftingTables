@@ -1,0 +1,12 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+	    "particle": "atmospheric:block/kousa_planks",
+        "down": "atmospheric:block/kousa_planks",
+        "up": "vct:block/kousa_crafting_table_top",
+        "north": "vct:block/kousa_crafting_table_front",
+        "east": "vct:block/kousa_crafting_table_side",
+        "south": "vct:block/kousa_crafting_table_side",
+        "west": "vct:block/kousa_crafting_table_front"
+	}
+}

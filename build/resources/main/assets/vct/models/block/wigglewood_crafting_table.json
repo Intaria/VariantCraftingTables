@@ -1,0 +1,12 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+	    "particle": "undergarden:block/wigglewood_planks",
+        "down": "undergarden:block/wigglewood_planks",
+        "up": "vct:block/wigglewood_crafting_table_top",
+        "north": "vct:block/wigglewood_crafting_table_front",
+        "east": "vct:block/wigglewood_crafting_table_side",
+        "south": "vct:block/wigglewood_crafting_table_side",
+        "west": "vct:block/wigglewood_crafting_table_front"
+	}
+}

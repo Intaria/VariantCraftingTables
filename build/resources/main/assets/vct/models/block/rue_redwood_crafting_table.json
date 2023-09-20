@@ -1,0 +1,12 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+	    "particle": "regions_unexplored:block/redwood_planks",
+        "down": "regions_unexplored:block/redwood_planks",
+        "up": "vct:block/rue_redwood_crafting_table_top",
+        "north": "vct:block/rue_redwood_crafting_table_front",
+        "east": "vct:block/rue_redwood_crafting_table_side",
+        "south": "vct:block/rue_redwood_crafting_table_side",
+        "west": "vct:block/rue_redwood_crafting_table_front"
+	}
+}

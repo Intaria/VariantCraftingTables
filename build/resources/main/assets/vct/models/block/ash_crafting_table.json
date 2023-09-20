@@ -1,0 +1,12 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+	    "particle": "abundant_atmosphere:block/ash_planks",
+        "down": "abundant_atmosphere:block/ash_planks",
+        "up": "vct:block/ash_crafting_table_top",
+        "north": "vct:block/ash_crafting_table_front",
+        "east": "vct:block/ash_crafting_table_side",
+        "south": "vct:block/ash_crafting_table_side",
+        "west": "vct:block/ash_crafting_table_front"
+	}
+}

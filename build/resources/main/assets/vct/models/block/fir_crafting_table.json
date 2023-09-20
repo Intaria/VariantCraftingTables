@@ -1,0 +1,12 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+	    "particle": "newworld:block/fir_planks",
+        "down": "newworld:block/fir_planks",
+        "up": "vct:block/fir_crafting_table_top",
+        "north": "vct:block/fir_crafting_table_front",
+        "east": "vct:block/fir_crafting_table_side",
+        "south": "vct:block/fir_crafting_table_side",
+        "west": "vct:block/fir_crafting_table_front"
+	}
+}

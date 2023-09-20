@@ -1,0 +1,12 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+	    "particle": "nethers_exoticism:blocks/jaboticaba_planks",
+        "down": "nethers_exoticism:blocks/jaboticaba_planks",
+        "up": "vct:block/jaboticaba_crafting_table_top",
+        "north": "vct:block/jaboticaba_crafting_table_front",
+        "east": "vct:block/jaboticaba_crafting_table_side",
+        "south": "vct:block/jaboticaba_crafting_table_side",
+        "west": "vct:block/jaboticaba_crafting_table_front"
+	}
+}

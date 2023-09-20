@@ -1,0 +1,12 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+	    "particle": "forbidden_arcanus:block/fungyss_planks",
+        "down": "forbidden_arcanus:block/fungyss_planks",
+        "up": "vct:block/fungyss_crafting_table_top",
+        "north": "vct:block/fungyss_crafting_table_front",
+        "east": "vct:block/fungyss_crafting_table_side",
+        "south": "vct:block/fungyss_crafting_table_side",
+        "west": "vct:block/fungyss_crafting_table_front"
+	}
+}

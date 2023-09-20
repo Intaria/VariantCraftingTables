@@ -1,0 +1,12 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+	    "particle": "ad_astra:block/aeronos_planks",
+        "down": "ad_astra:block/aeronos_planks",
+        "up": "vct:block/aeronos_crafting_table_top",
+        "north": "vct:block/aeronos_crafting_table_front",
+        "east": "vct:block/aeronos_crafting_table_side",
+        "south": "vct:block/aeronos_crafting_table_side",
+        "west": "vct:block/aeronos_crafting_table_front"
+	}
+}

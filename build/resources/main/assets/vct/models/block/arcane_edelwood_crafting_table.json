@@ -1,0 +1,12 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+	    "particle": "forbidden_arcanus:block/arcane_edelwood_planks",
+        "down": "forbidden_arcanus:block/arcane_edelwood_planks",
+        "up": "vct:block/arcane_edelwood_crafting_table_top",
+        "north": "vct:block/arcane_edelwood_crafting_table_front",
+        "east": "vct:block/arcane_edelwood_crafting_table_side",
+        "south": "vct:block/arcane_edelwood_crafting_table_side",
+        "west": "vct:block/arcane_edelwood_crafting_table_front"
+	}
+}

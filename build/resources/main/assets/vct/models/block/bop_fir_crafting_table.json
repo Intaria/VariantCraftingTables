@@ -1,0 +1,12 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+	    "particle": "biomesoplenty:block/fir_planks",
+        "down": "biomesoplenty:block/fir_planks",
+        "up": "vct:block/bop_fir_crafting_table_top",
+        "north": "vct:block/bop_fir_crafting_table_front",
+        "east": "vct:block/bop_fir_crafting_table_side",
+        "south": "vct:block/bop_fir_crafting_table_side",
+        "west": "vct:block/bop_fir_crafting_table_front"
+	}
+}

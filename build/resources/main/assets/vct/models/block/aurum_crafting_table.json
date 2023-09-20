@@ -1,0 +1,12 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+	    "particle": "forbidden_arcanus:block/aurum_planks",
+        "down": "forbidden_arcanus:block/aurum_planks",
+        "up": "vct:block/aurum_crafting_table_top",
+        "north": "vct:block/aurum_crafting_table_front",
+        "east": "vct:block/aurum_crafting_table_side",
+        "south": "vct:block/aurum_crafting_table_side",
+        "west": "vct:block/aurum_crafting_table_front"
+	}
+}

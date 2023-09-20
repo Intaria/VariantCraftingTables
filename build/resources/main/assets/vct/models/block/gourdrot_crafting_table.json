@@ -1,0 +1,12 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+	    "particle": "abundant_atmosphere:block/gourdrot_planks",
+        "down": "abundant_atmosphere:block/gourdrot_planks",
+        "up": "vct:block/gourdrot_crafting_table_top",
+        "north": "vct:block/gourdrot_crafting_table_front",
+        "east": "vct:block/gourdrot_crafting_table_side",
+        "south": "vct:block/gourdrot_crafting_table_side",
+        "west": "vct:block/gourdrot_crafting_table_front"
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+	    "particle": "quark:block/ancient_planks",
+        "down": "quark:block/ancient_planks",
+        "up": "vct:block/quark_ancient_crafting_table_top",
+        "north": "vct:block/quark_ancient_crafting_table_front",
+        "east": "vct:block/quark_ancient_crafting_table_side",
+        "south": "vct:block/quark_ancient_crafting_table_side",
+        "west": "vct:block/quark_ancient_crafting_table_front"
+	}
+}

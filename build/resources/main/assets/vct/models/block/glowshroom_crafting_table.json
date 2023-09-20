@@ -1,0 +1,12 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+	    "particle": "extendedmushrooms:block/glowshroom_planks",
+        "down": "extendedmushrooms:block/glowshroom_planks",
+        "up": "vct:block/glowshroom_crafting_table_top",
+        "north": "vct:block/glowshroom_crafting_table_front",
+        "east": "vct:block/glowshroom_crafting_table_side",
+        "south": "vct:block/glowshroom_crafting_table_side",
+        "west": "vct:block/glowshroom_crafting_table_front"
+	}
+}

@@ -1,0 +1,38 @@
+{
+  "parent": "vct:recipes/root",
+  "rewards": {
+    "recipes": [
+      "vct:edelwood_crafting_table"
+    ]
+  },
+  "criteria": {
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "vct:edelwood_crafting_table"
+      }
+    },
+    "has_items": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [ "forbidden_arcanus:edelwood_planks" ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_items"
+    ]
+  ],
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "forbidden_arcanus"
+    }
+  ]
+}

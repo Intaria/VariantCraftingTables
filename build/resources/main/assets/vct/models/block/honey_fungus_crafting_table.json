@@ -1,0 +1,12 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+	    "particle": "extendedmushrooms:block/honey_fungus_planks",
+        "down": "extendedmushrooms:block/honey_fungus_planks",
+        "up": "vct:block/honey_fungus_crafting_table_top",
+        "north": "vct:block/honey_fungus_crafting_table_front",
+        "east": "vct:block/honey_fungus_crafting_table_side",
+        "south": "vct:block/honey_fungus_crafting_table_side",
+        "west": "vct:block/honey_fungus_crafting_table_front"
+	}
+}

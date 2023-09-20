@@ -1,0 +1,12 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+	    "particle": "tconstruct:block/wood/skyroot/planks",
+        "down": "tconstruct:block//wood/skyroot/planks",
+        "up": "vct:block/skyroot_crafting_table_top",
+        "north": "vct:block/skyroot_crafting_table_front",
+        "east": "vct:block/skyroot_crafting_table_side",
+        "south": "vct:block/skyroot_crafting_table_side",
+        "west": "vct:block/skyroot_crafting_table_front"
+	}
+}

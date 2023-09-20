@@ -1,0 +1,12 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+	    "particle": "minecraft:block/fruittrees/planks",
+        "down": "minecraft:block/fruittrees/planks",
+        "up": "vct:block/ft_citrus_crafting_table_top",
+        "north": "vct:block/ft_citrus_crafting_table_front",
+        "east": "vct:block/ft_citrus_crafting_table_side",
+        "south": "vct:block/ft_citrus_crafting_table_side",
+        "west": "vct:block/ft_citrus_crafting_table_front"
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+	    "particle": "atmospheric:block/rosewood_planks",
+        "down": "atmospheric:block/rosewood_planks",
+        "up": "vct:block/rosewood_crafting_table_top",
+        "north": "vct:block/rosewood_crafting_table_front",
+        "east": "vct:block/rosewood_crafting_table_side",
+        "south": "vct:block/rosewood_crafting_table_side",
+        "west": "vct:block/rosewood_crafting_table_front"
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+	    "particle": "atmospheric:block/morado_planks",
+        "down": "atmospheric:block/morado_planks",
+        "up": "vct:block/morado_crafting_table_top",
+        "north": "vct:block/morado_crafting_table_front",
+        "east": "vct:block/morado_crafting_table_side",
+        "south": "vct:block/morado_crafting_table_side",
+        "west": "vct:block/morado_crafting_table_front"
+	}
+}

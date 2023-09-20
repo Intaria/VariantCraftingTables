@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "vct:item/bm_blighted_balsa_crafting_table_minecart"
+    }
+}

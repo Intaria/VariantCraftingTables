@@ -1,0 +1,12 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+	    "particle": "prehistoricfauna:blocks/metasequoia_planks",
+        "down": "prehistoricfauna:blocks/metasequoia_planks",
+        "up": "vct:block/metasequoia_crafting_table_top",
+        "north": "vct:block/metasequoia_crafting_table_front",
+        "east": "vct:block/metasequoia_crafting_table_side",
+        "south": "vct:block/metasequoia_crafting_table_side",
+        "west": "vct:block/metasequoia_crafting_table_front"
+	}
+}

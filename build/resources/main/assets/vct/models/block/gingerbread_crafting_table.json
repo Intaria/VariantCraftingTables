@@ -1,0 +1,12 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+	    "particle": "snowyspirit:blocks/gingerbread_block",
+        "down": "snowyspirit:blocks/gingerbread_block",
+        "up": "vct:block/gingerbread_crafting_table_top",
+        "north": "vct:block/gingerbread_crafting_table_front",
+        "east": "vct:block/gingerbread_crafting_table_side",
+        "south": "vct:block/gingerbread_crafting_table_side",
+        "west": "vct:block/gingerbread_crafting_table_front"
+	}
+}

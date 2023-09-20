@@ -1,0 +1,12 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+	    "particle": "colorfulazaleas:block/roze_azalea_planks",
+        "down": "colorfulazaleas:block/roze_azalea_planks",
+        "up": "vct:block/roze_azalea_crafting_table_top",
+        "north": "vct:block/roze_azalea_crafting_table_front",
+        "east": "vct:block/roze_azalea_crafting_table_side",
+        "south": "vct:block/roze_azalea_crafting_table_side",
+        "west": "vct:block/roze_azalea_crafting_table_front"
+	}
+}

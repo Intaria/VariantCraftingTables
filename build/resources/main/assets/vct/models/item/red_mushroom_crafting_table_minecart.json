@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "vct:item/red_mushroom_crafting_table_minecart"
+    }
+}

@@ -1,0 +1,12 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+	    "particle": "habitat:block/fairy_ring_mushroom_planks",
+        "down": "habitat:block/fairy_ring_mushroom_planks",
+        "up": "vct:block/fairy_ring_mushroom_crafting_table_top",
+        "north": "vct:block/fairy_ring_mushroom_crafting_table_front",
+        "east": "vct:block/fairy_ring_mushroom_crafting_table_side",
+        "south": "vct:block/fairy_ring_mushroom_crafting_table_side",
+        "west": "vct:block/fairy_ring_mushroom_crafting_table_front"
+	}
+}

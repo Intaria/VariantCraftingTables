@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "vct:item/roze_azalea_crafting_table_minecart"
+    }
+}

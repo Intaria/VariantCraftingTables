@@ -1,0 +1,12 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+	    "particle": "tconstruct:block/wood/greenheart/planks",
+        "down": "tconstruct:block/wood/greenheart/planks",
+        "up": "vct:block/greenheart_crafting_table_top",
+        "north": "vct:block/greenheart_crafting_table_front",
+        "east": "vct:block/greenheart_crafting_table_side",
+        "south": "vct:block/greenheart_crafting_table_side",
+        "west": "vct:block/greenheart_crafting_table_front"
+	}
+}

@@ -74,10 +74,6 @@ public class VCTBlocks
     public static final RegistryObject<Block> WILLOW_CRAFTING_TABLE = BLOCKS.register("willow_crafting_table", () -> new VCTCraftingTableBlock(Block.Properties.of(Material.WOOD).strength(2.5F).sound(SoundType.WOOD)));
     public static final RegistryObject<Block> WISTERIA_CRAFTING_TABLE = BLOCKS.register("wisteria_crafting_table", () -> new VCTCraftingTableBlock(Block.Properties.of(Material.WOOD).strength(2.5F).sound(SoundType.WOOD)));
 
-    // Upgrade Aquatic
-    public static final RegistryObject<Block> DRIFTWOOD_CRAFTING_TABLE = BLOCKS.register("driftwood_crafting_table", () -> new VCTCraftingTableBlock(Block.Properties.of(Material.WOOD).strength(2.5F).sound(SoundType.WOOD)));
-    public static final RegistryObject<Block> RIVER_CRAFTING_TABLE = BLOCKS.register("river_crafting_table", () -> new VCTCraftingTableBlock(Block.Properties.of(Material.WOOD).strength(2.5F).sound(SoundType.WOOD)));
-
 	/* Team Aurora Mods */
     // Abundance
  	public static final RegistryObject<Block> JACARANDA_CRAFTING_TABLE = BLOCKS.register("jacaranda_crafting_table", () -> new VCTCraftingTableBlock(Block.Properties.of(Material.WOOD).strength(2.5F).sound(SoundType.WOOD)));

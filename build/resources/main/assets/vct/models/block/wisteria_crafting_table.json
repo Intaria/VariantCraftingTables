@@ -1,0 +1,12 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+	    "particle": "environmental:block/wisteria_planks",
+        "down": "environmental:block/wisteria_planks",
+        "up": "vct:block/wisteria_crafting_table_top",
+        "north": "vct:block/wisteria_crafting_table_front",
+        "east": "vct:block/wisteria_crafting_table_side",
+        "south": "vct:block/wisteria_crafting_table_side",
+        "west": "vct:block/wisteria_crafting_table_front"
+	}
+}

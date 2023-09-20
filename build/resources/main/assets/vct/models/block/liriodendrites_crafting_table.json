@@ -1,0 +1,12 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+	    "particle": "prehistoricfauna:blocks/liriodendrites_planks",
+        "down": "prehistoricfauna:blocks/liriodendrites_planks",
+        "up": "vct:block/liriodendrites_crafting_table_top",
+        "north": "vct:block/liriodendrites_crafting_table_front",
+        "east": "vct:block/liriodendrites_crafting_table_side",
+        "south": "vct:block/liriodendrites_crafting_table_side",
+        "west": "vct:block/liriodendrites_crafting_table_front"
+	}
+}

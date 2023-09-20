@@ -1,0 +1,12 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+	    "particle": "pyromancer:blocks/rotten_planks",
+        "down": "pyromancer:blocks/rotten_planks",
+        "up": "vct:block/rotten_planks_crafting_table_top",
+        "north": "vct:block/rotten_planks_crafting_table_front",
+        "east": "vct:block/rotten_planks_crafting_table_side",
+        "south": "vct:block/rotten_planks_crafting_table_side",
+        "west": "vct:block/rotten_planks_crafting_table_front"
+	}
+}

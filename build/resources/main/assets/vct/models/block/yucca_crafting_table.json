@@ -1,0 +1,12 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+	    "particle": "atmospheric:block/yucca_planks",
+        "down": "atmospheric:block/yucca_planks",
+        "up": "vct:block/yucca_crafting_table_top",
+        "north": "vct:block/yucca_crafting_table_front",
+        "east": "vct:block/yucca_crafting_table_side",
+        "south": "vct:block/yucca_crafting_table_side",
+        "west": "vct:block/yucca_crafting_table_front"
+	}
+}

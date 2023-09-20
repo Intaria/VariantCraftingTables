@@ -1,0 +1,12 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+	    "particle": "quark:block/blossom_planks",
+        "down": "quark:block/blossom_planks",
+        "up": "vct:block/quark_blossom_crafting_table_top",
+        "north": "vct:block/quark_blossom_crafting_table_front",
+        "east": "vct:block/quark_blossom_crafting_table_side",
+        "south": "vct:block/quark_blossom_crafting_table_side",
+        "west": "vct:block/quark_blossom_crafting_table_front"
+	}
+}

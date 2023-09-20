@@ -1,0 +1,12 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+	    "particle": "enlightened_end:blocks/congealed_planks",
+        "down": "enlightened_end:blocks/congealed_planks",
+        "up": "vct:block/congealed_crafting_table_top",
+        "north": "vct:block/congealed_crafting_table_front",
+        "east": "vct:block/congealed_crafting_table_side",
+        "south": "vct:block/congealed_crafting_table_side",
+        "west": "vct:block/congealed_crafting_table_front"
+	}
+}

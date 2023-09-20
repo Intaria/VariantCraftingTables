@@ -1,0 +1,12 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+	    "particle": "architects_palette:block/twisted_planks",
+        "down": "architects_palette:block/twisted_planks",
+        "up": "vct:block/twisted_crafting_table_top",
+        "north": "vct:block/twisted_crafting_table_front",
+        "east": "vct:block/twisted_crafting_table_side",
+        "south": "vct:block/twisted_crafting_table_side",
+        "west": "vct:block/twisted_crafting_table_front"
+	}
+}

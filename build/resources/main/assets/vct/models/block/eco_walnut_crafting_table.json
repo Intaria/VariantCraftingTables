@@ -1,0 +1,12 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+	    "particle": "ecologics:block/walnut_planks",
+        "down": "ecologics:block/walnut_planks",
+        "up": "vct:block/eco_walnut_crafting_table_top",
+        "north": "vct:block/eco_walnut_crafting_table_front",
+        "east": "vct:block/eco_walnut_crafting_table_side",
+        "south": "vct:block/eco_walnut_crafting_table_side",
+        "west": "vct:block/eco_walnut_crafting_table_front"
+	}
+}

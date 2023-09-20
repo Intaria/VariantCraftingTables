@@ -1,0 +1,12 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+	    "particle": "gardens_of_the_dead:block/whistlecane_block",
+        "down": "gardens_of_the_dead:block/whistlecane_block",
+        "up": "vct:block/whistlecane_crafting_table_top",
+        "north": "vct:block/whistlecane_crafting_table_front",
+        "east": "vct:block/whistlecane_crafting_table_side",
+        "south": "vct:block/whistlecane_crafting_table_side",
+        "west": "vct:block/whistlecane_crafting_table_front"
+	}
+}

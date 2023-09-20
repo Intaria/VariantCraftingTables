@@ -1,0 +1,12 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+	    "particle": "windswept:block/holly_planks",
+        "down": "windswept:block/holly_planks",
+        "up": "vct:block/holly_crafting_table_top",
+        "north": "vct:block/holly_crafting_table_front",
+        "east": "vct:block/holly_crafting_table_side",
+        "south": "vct:block/holly_crafting_table_side",
+        "west": "vct:block/holly_crafting_table_front"
+	}
+}

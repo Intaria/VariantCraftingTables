@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "phf_crafting_table",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "prehistoricfauna:metasequoia_planks"
+    }
+  },
+  "result": {
+    "item": "vct:metasequoia_crafting_table"
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "prehistoricfauna"
+    }
+  ]
+}

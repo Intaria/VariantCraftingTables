@@ -1,0 +1,12 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+	    "particle": "ars_nouveau:blocks/archwood_planks",
+        "down": "ars_nouveau:blocks/archwood_planks",
+        "up": "vct:block/archwood_crafting_table_top",
+        "north": "vct:block/archwood_crafting_table_front",
+        "east": "vct:block/archwood_crafting_table_side",
+        "south": "vct:block/archwood_crafting_table_side",
+        "west": "vct:block/archwood_crafting_table_front"
+	}
+}

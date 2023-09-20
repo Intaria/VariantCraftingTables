@@ -1,0 +1,12 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+	    "particle": "autumnity:block/maple_planks",
+        "down": "autumnity:block/maple_planks",
+        "up": "vct:block/maple_crafting_table_top",
+        "north": "vct:block/maple_crafting_table_front",
+        "east": "vct:block/maple_crafting_table_side",
+        "south": "vct:block/maple_crafting_table_side",
+        "west": "vct:block/maple_crafting_table_front"
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+	    "particle": "malum:block/soulwood_planks",
+        "down": "malum:block/soulwood_planks",
+        "up": "vct:block/soulwood_crafting_table_top",
+        "north": "vct:block/soulwood_crafting_table_front",
+        "east": "vct:block/soulwood_crafting_table_side",
+        "south": "vct:block/soulwood_crafting_table_side",
+        "west": "vct:block/soulwood_crafting_table_front"
+	}
+}

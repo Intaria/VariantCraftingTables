@@ -1,0 +1,12 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+	    "particle": "ceilands:block/ceiltrunk_planks",
+        "down": "ceilands:block/ceiltrunk_planks",
+        "up": "vct:block/ceiltrunk_crafting_table_top",
+        "north": "vct:block/ceiltrunk_crafting_table_front",
+        "east": "vct:block/ceiltrunk_crafting_table_side",
+        "south": "vct:block/ceiltrunk_crafting_table_side",
+        "west": "vct:block/ceiltrunk_crafting_table_front"
+	}
+}

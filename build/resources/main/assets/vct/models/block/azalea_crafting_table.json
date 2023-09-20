@@ -1,0 +1,12 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+	    "particle": "caverns_and_chasms:block/azalea_planks",
+        "down": "caverns_and_chasms:block/azalea_planks",
+        "up": "vct:block/azalea_crafting_table_top",
+        "north": "vct:block/azalea_crafting_table_front",
+        "east": "vct:block/azalea_crafting_table_side",
+        "south": "vct:block/azalea_crafting_table_side",
+        "west": "vct:block/azalea_crafting_table_front"
+	}
+}

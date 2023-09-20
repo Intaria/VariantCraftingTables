@@ -1,0 +1,12 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+	    "particle": "enlightened_end:blocks/ebony_planks_2",
+        "down": "enlightened_end:blocks/ebony_planks_2",
+        "up": "vct:block/verdant_crafting_table_top",
+        "north": "vct:block/verdant_crafting_table_front",
+        "east": "vct:block/verdant_crafting_table_side",
+        "south": "vct:block/verdant_crafting_table_side",
+        "west": "vct:block/verdant_crafting_table_front"
+	}
+}

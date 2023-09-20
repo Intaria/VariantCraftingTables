@@ -1,0 +1,12 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+	    "particle": "hexcasting:block/edified_planks",
+        "down": "hexcasting:block/edified_planks",
+        "up": "vct:block/edified_crafting_table_top",
+        "north": "vct:block/edified_crafting_table_front",
+        "east": "vct:block/edified_crafting_table_side",
+        "south": "vct:block/edified_crafting_table_side",
+        "west": "vct:block/edified_crafting_table_front"
+	}
+}

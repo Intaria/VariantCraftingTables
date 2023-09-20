@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "darkerdepths:petrified_planks"
+    }
+  },
+  "result": {
+    "item": "vct:petrified_crafting_table",
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "darkerdepths"
+    }
+  ]
+}

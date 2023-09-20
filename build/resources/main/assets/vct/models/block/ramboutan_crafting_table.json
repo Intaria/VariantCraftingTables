@@ -1,0 +1,12 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+	    "particle": "nethers_exoticism:blocks/ramboutan_planks",
+        "down": "nethers_exoticism:blocks/ramboutan_planks",
+        "up": "vct:block/ramboutan_crafting_table_top",
+        "north": "vct:block/ramboutan_crafting_table_front",
+        "east": "vct:block/ramboutan_crafting_table_side",
+        "south": "vct:block/ramboutan_crafting_table_side",
+        "west": "vct:block/ramboutan_crafting_table_front"
+	}
+}

@@ -196,8 +196,6 @@ public class MinecartCraftingTable extends AbstractMinecartContainer
 		CHERRY(VCTBlocks.CHERRY_CRAFTING_TABLE.get()),
 		WILLOW(VCTBlocks.WILLOW_CRAFTING_TABLE.get()),
 		WISTERIA(VCTBlocks.WISTERIA_CRAFTING_TABLE.get()),
-		DRIFTWOOD(VCTBlocks.DRIFTWOOD_CRAFTING_TABLE.get()),
-		RIVER(VCTBlocks.RIVER_CRAFTING_TABLE.get()),
 		// Team Aurora
 		JACARANDA(VCTBlocks.JACARANDA_CRAFTING_TABLE.get()),
 		REDBUD(VCTBlocks.REDBUD_CRAFTING_TABLE.get()),

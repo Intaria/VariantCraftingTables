@@ -1,0 +1,12 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+	    "particle": "atmospheric:block/aspen_planks",
+        "down": "atmospheric:block/aspen_planks",
+        "up": "vct:block/aspen_crafting_table_top",
+        "north": "vct:block/aspen_crafting_table_front",
+        "east": "vct:block/aspen_crafting_table_side",
+        "south": "vct:block/aspen_crafting_table_side",
+        "west": "vct:block/aspen_crafting_table_front"
+	}
+}

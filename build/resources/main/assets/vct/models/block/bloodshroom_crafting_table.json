@@ -1,0 +1,12 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+	    "particle": "tconstruct:block/wood/bloodshroom/planks",
+        "down": "tconstruct:block/wood/bloodshroom/planks",
+        "up": "vct:block/bloodshroom_crafting_table_top",
+        "north": "vct:block/bloodshroom_crafting_table_front",
+        "east": "vct:block/bloodshroom_crafting_table_side",
+        "south": "vct:block/bloodshroom_crafting_table_side",
+        "west": "vct:block/bloodshroom_crafting_table_front"
+	}
+}

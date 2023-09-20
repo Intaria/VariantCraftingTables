@@ -1,0 +1,12 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+	    "particle": "windswept:block/chestnut_planks",
+        "down": "windswept:block/chestnut_planks",
+        "up": "vct:block/chestnut_crafting_table_top",
+        "north": "vct:block/chestnut_crafting_table_front",
+        "east": "vct:block/chestnut_crafting_table_side",
+        "south": "vct:block/chestnut_crafting_table_side",
+        "west": "vct:block/chestnut_crafting_table_front"
+	}
+}

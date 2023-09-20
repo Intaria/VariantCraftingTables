@@ -1,0 +1,12 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+	    "particle": "ecologics:block/flowering_azalea_planks",
+        "down": "ecologics:block/flowering_azalea_planks",
+        "up": "vct:block/eco_flowering_azalea_crafting_table_top",
+        "north": "vct:block/eco_flowering_azalea_crafting_table_front",
+        "east": "vct:block/eco_flowering_azalea_crafting_table_side",
+        "south": "vct:block/eco_flowering_azalea_crafting_table_side",
+        "west": "vct:block/eco_flowering_azalea_crafting_table_front"
+	}
+}

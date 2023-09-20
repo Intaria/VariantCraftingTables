@@ -1,0 +1,12 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+	    "particle": "phantasm:blocks/pream_planks",
+        "down": "phantasm:blocks/pream_planks",
+        "up": "vct:block/pream_crafting_table_top",
+        "north": "vct:block/pream_crafting_table_front",
+        "east": "vct:block/pream_crafting_table_side",
+        "south": "vct:block/pream_crafting_table_side",
+        "west": "vct:block/pream_crafting_table_front"
+	}
+}

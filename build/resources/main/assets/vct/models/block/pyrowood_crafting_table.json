@@ -1,0 +1,12 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+	    "particle": "pyromancer:blocks/pyrowoodplanks",
+        "down": "pyromancer:blocks/pyrowoodplanks",
+        "up": "vct:block/pyrowood_crafting_table_top",
+        "north": "vct:block/pyrowood_crafting_table_front",
+        "east": "vct:block/pyrowood_crafting_table_side",
+        "south": "vct:block/pyrowood_crafting_table_side",
+        "west": "vct:block/pyrowood_crafting_table_front"
+	}
+}

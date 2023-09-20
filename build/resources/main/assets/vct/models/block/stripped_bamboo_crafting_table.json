@@ -1,0 +1,12 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+	    "particle": "twigs:block/stripped_bamboo_planks",
+        "down": "twigs:block/stripped_bamboo_planks",
+        "up": "vct:block/stripped_bamboo_crafting_table_top",
+        "north": "vct:block/stripped_bamboo_crafting_table_front",
+        "east": "vct:block/stripped_bamboo_crafting_table_side",
+        "south": "vct:block/stripped_bamboo_crafting_table_side",
+        "west": "vct:block/stripped_bamboo_crafting_table_front"
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+	    "particle": "biomemakeover:block/ancient_oak_planks",
+        "down": "biomemakeover:block/ancient_oak_planks",
+        "up": "vct:block/bm_ancient_oak_crafting_table_top",
+        "north": "vct:block/bm_ancient_oak_crafting_table_front",
+        "east": "vct:block/bm_ancient_oak_crafting_table_side",
+        "south": "vct:block/bm_ancient_oak_crafting_table_side",
+        "west": "vct:block/bm_ancient_oak_crafting_table_front"
+	}
+}

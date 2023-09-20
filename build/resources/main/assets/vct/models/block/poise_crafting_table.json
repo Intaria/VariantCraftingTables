@@ -1,0 +1,12 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+	    "particle": "endergetic:block/poise_planks",
+        "down": "endergetic:block/poise_planks",
+        "up": "vct:block/poise_crafting_table_top",
+        "north": "vct:block/poise_crafting_table_front",
+        "east": "vct:block/poise_crafting_table_side",
+        "south": "vct:block/poise_crafting_table_side",
+        "west": "vct:block/poise_crafting_table_front"
+	}
+}

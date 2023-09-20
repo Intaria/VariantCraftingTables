@@ -1,0 +1,12 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+	    "particle": "prehistoricfauna:blocks/araucaria_planks",
+        "down": "prehistoricfauna:blocks/araucaria_planks",
+        "up": "vct:block/araucaria_crafting_table_top",
+        "north": "vct:block/araucaria_crafting_table_front",
+        "east": "vct:block/araucaria_crafting_table_side",
+        "south": "vct:block/araucaria_crafting_table_side",
+        "west": "vct:block/araucaria_crafting_table_front"
+	}
+}

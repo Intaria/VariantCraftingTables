@@ -130,13 +130,6 @@ public class VCTItems
 	public static final RegistryObject<Item> WILLOW_CRAFTING_TABLE_MINECART = ITEMS.register("willow_crafting_table_minecart", () -> new CraftingTableMinecartItem(new Item.Properties().tab(conditionallyAddTab("environmental", CreativeModeTab.TAB_TRANSPORTATION)).stacksTo(1), CraftingTableType.WILLOW));
 	public static final RegistryObject<Item> WISTERIA_CRAFTING_TABLE_MINECART = ITEMS.register("wisteria_crafting_table_minecart", () -> new CraftingTableMinecartItem(new Item.Properties().tab(conditionallyAddTab("environmental", CreativeModeTab.TAB_TRANSPORTATION)).stacksTo(1), CraftingTableType.WISTERIA));
 	
-	// Upgrade Aquatic
-	public static final RegistryObject<Item> DRIFTWOOD_CRAFTING_TABLE = ITEMS.register("driftwood_crafting_table", () -> new VCTCraftingTableItem(VCTBlocks.DRIFTWOOD_CRAFTING_TABLE.get(), new Item.Properties().tab(conditionallyAddTab("upgrade_aquatic", CreativeModeTab.TAB_DECORATIONS))));
-	public static final RegistryObject<Item> RIVER_CRAFTING_TABLE = ITEMS.register("river_crafting_table", () -> new VCTCraftingTableItem(VCTBlocks.RIVER_CRAFTING_TABLE.get(), new Item.Properties().tab(conditionallyAddTab("upgrade_aquatic", CreativeModeTab.TAB_DECORATIONS))));
-
-	public static final RegistryObject<Item> DRIFTWOOD_CRAFTING_TABLE_MINECART = ITEMS.register("driftwood_crafting_table_minecart", () -> new CraftingTableMinecartItem(new Item.Properties().tab(conditionallyAddTab("upgrade_aquatic", CreativeModeTab.TAB_TRANSPORTATION)).stacksTo(1), CraftingTableType.DRIFTWOOD));
-	public static final RegistryObject<Item> RIVER_CRAFTING_TABLE_MINECART = ITEMS.register("river_crafting_table_minecart", () -> new CraftingTableMinecartItem(new Item.Properties().tab(conditionallyAddTab("upgrade_aquatic", CreativeModeTab.TAB_TRANSPORTATION)).stacksTo(1), CraftingTableType.RIVER));
-	
 	/* Team Aurora Mods */
 	// Horizons
 	public static final RegistryObject<Item> CYPRESS_CRAFTING_TABLE = ITEMS.register("cypress_crafting_table", () -> new VCTCraftingTableItem(VCTBlocks.CYPRESS_CRAFTING_TABLE.get(), new Item.Properties().tab(conditionallyAddTab("horizons", CreativeModeTab.TAB_DECORATIONS))));

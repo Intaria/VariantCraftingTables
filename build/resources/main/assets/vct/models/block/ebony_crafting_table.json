@@ -1,0 +1,12 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+	    "particle": "phantasm:blocks/ebony_planks",
+        "down": "phantasm:blocks/ebony_planks",
+        "up": "vct:block/ebony_crafting_table_top",
+        "north": "vct:block/ebony_crafting_table_front",
+        "east": "vct:block/ebony_crafting_table_side",
+        "south": "vct:block/ebony_crafting_table_side",
+        "west": "vct:block/ebony_crafting_table_front"
+	}
+}

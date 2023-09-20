@@ -1,0 +1,12 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+	    "particle": "gardens_of_the_dead:block/soulblight_planks",
+        "down": "gardens_of_the_dead:block/soulblight_planks",
+        "up": "vct:block/soulblight_crafting_table_top",
+        "north": "vct:block/soulblight_crafting_table_front",
+        "east": "vct:block/soulblight_crafting_table_side",
+        "south": "vct:block/soulblight_crafting_table_side",
+        "west": "vct:block/soulblight_crafting_table_front"
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+	    "particle": "undergarden:block/grongle_planks",
+        "down": "undergarden:block/grongle_planks",
+        "up": "vct:block/grongle_crafting_table_top",
+        "north": "vct:block/grongle_crafting_table_front",
+        "east": "vct:block/grongle_crafting_table_side",
+        "south": "vct:block/grongle_crafting_table_side",
+        "west": "vct:block/grongle_crafting_table_front"
+	}
+}

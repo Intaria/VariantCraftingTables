@@ -1,0 +1,12 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+	    "particle": "horizons:block/jacaranda_planks",
+        "down": "horizons:block/jacaranda_planks",
+        "up": "vct:block/jacaranda_crafting_table_top",
+        "north": "vct:block/jacaranda_crafting_table_front",
+        "east": "vct:block/jacaranda_crafting_table_side",
+        "south": "vct:block/jacaranda_crafting_table_side",
+        "west": "vct:block/jacaranda_crafting_table_front"
+	}
+}

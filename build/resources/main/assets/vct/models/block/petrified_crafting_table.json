@@ -1,0 +1,12 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+	    "particle": "darkerdepths:block/petrified_planks",
+        "down": "darkerdepths:block/petrified_planks",
+        "up": "vct:block/petrified_crafting_table_top",
+        "north": "vct:block/petrified_crafting_table_front",
+        "east": "vct:block/petrified_crafting_table_side",
+        "south": "vct:block/petrified_crafting_table_side",
+        "west": "vct:block/petrified_crafting_table_front"
+	}
+}
